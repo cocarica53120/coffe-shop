@@ -11,6 +11,7 @@ node ./bin/index help
 
 # To install/use the binary global
 sudo npm install -g ./
+
 coffee-shop help
 coffee-shop list
 coffee-shop order
